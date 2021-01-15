@@ -1,0 +1,10 @@
+D:\C#_projects\Ispitanie_xmlem\Ispitanie_xmlem\bin\Debug\Ispitanie_xmlem.exe.config
+D:\C#_projects\Ispitanie_xmlem\Ispitanie_xmlem\bin\Debug\Ispitanie_xmlem.exe
+D:\C#_projects\Ispitanie_xmlem\Ispitanie_xmlem\bin\Debug\Ispitanie_xmlem.pdb
+D:\C#_projects\Ispitanie_xmlem\Ispitanie_xmlem\obj\Debug\Ispitanie_xmlem.csprojAssemblyReference.cache
+D:\C#_projects\Ispitanie_xmlem\Ispitanie_xmlem\obj\Debug\Ispitanie_xmlem.Form1.resources
+D:\C#_projects\Ispitanie_xmlem\Ispitanie_xmlem\obj\Debug\Ispitanie_xmlem.Properties.Resources.resources
+D:\C#_projects\Ispitanie_xmlem\Ispitanie_xmlem\obj\Debug\Ispitanie_xmlem.csproj.GenerateResource.cache
+D:\C#_projects\Ispitanie_xmlem\Ispitanie_xmlem\obj\Debug\Ispitanie_xmlem.csproj.CoreCompileInputs.cache
+D:\C#_projects\Ispitanie_xmlem\Ispitanie_xmlem\obj\Debug\Ispitanie_xmlem.exe
+D:\C#_projects\Ispitanie_xmlem\Ispitanie_xmlem\obj\Debug\Ispitanie_xmlem.pdb
